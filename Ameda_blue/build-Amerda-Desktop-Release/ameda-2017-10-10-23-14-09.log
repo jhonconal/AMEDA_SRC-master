@@ -1,0 +1,19 @@
+=====================================================================
+***                         AMEDA  Inspection Log                 ***
+***                                                               ***
+***  INTERNATIONAL STANDARD ATMOSPHERE:1Mpa≈760mmHg              ***
+***  LOG_TIME :  23:14:09 10/10/2017 UTC                          ***
+***  COPYRIGHT :  Copyright(c)2016 ebulent(shenzhen)Co.,LTD.      ***
+***  PRODUCT :  Ameda                                             ***
+***  COMPANY :  ebulent                                           ***
+***  DESCRIPTION :  qian.yang@ebulent.com.cn                         ***
+***                                                               ***
+=====================================================================
+------>Speed Switch : <Speed: switch->[1]>
+------>Suction Switch : <Suction: shutdown>
+------>Pumping Numbers : <Pumping: [single]>
+Parameters Output:
+------>MaxValue in at least 3 minutes : <0 mmHg>
+------>MinValue in at least 3 minutes : <0 mmHg>
+------>Period/Frequency :<0 cycle/min>
+=====================================================================

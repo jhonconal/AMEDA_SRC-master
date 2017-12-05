@@ -1,0 +1,6 @@
+date: 2016-11-4
+version: 2.1
+the version is update for Ameda BIN file.
+please make the "Ameda" bin file under the root of a u-disk which formated in FAT-32
+#该程序位于imx6D主板/root/AMEDA/Ameda
+#检测FAT-32格式U盘下文件为"Ameda",满足文件名以及相关大小后将文件拷贝至/root/AMEDA/Ameda、
